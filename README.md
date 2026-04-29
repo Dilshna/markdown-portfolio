@@ -1,13 +1,37 @@
-## Your GitHub Learning Lab Repository for Communicating Using Markdown
+# 👋 Hi, I'm Dilshana
+Junior Software Developer
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+## 🚀 About Me
+I am a backend-focused developer skilled in Node.js, Express, MySQL, and Sequelize. I build scalable APIs and real-world applications.
 
-Oh! I haven't introduced myself...
+---
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+## 💼 Projects
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+### 🍔 Food Delivery Backend
+- Built REST APIs for customer login, store listing, and banners
+- Implemented JWT authentication with refresh tokens
+- Used MySQL with Sequelize ORM
 
-I'll meet you over there, can't wait to get started!
+🔗 GitHub: https://github.com/your-repo-link
 
-This repository is licensed under [MIT](../LICENSE) (c) 2019 GitHub, Inc.
+---
+
+### 🔐 Authentication System
+- Login / Signup / Token refresh
+- Password hashing and secure auth
+
+---
+
+## 🛠️ Tech Stack
+- Node.js
+- Express.js
+- MySQL
+- Sequelize
+- React (basic)
+
+---
+
+## 📫 Contact
+- Email: dilshanavv8@gmail.com
+- GitHub: https://github.com/your-profile
